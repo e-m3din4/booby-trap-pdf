@@ -50,7 +50,7 @@
 
 1. Embed malware, apks, executables or any other binary file into a PDF, or 
 
-2. Generate a PDF with malicious link incrusted.
+2. Generate a PDF with malicious link embed.
 
 
 ### Disclaimer:
